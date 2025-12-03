@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/hand.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer" /><img src="./images/hand.gif" width="35"></p>
+<p align="center"><img src="./images/hand.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full+Stack+Engineer;Blockchain+Web3+Engineer" /><img src="./images/hand.gif" width="35"></p>
 <p align="center"><img src="./images/fullStack.webp" /></p><br>
 -Skills
 
@@ -6,7 +6,7 @@
 - 🔭 Backend : Django, Laravel, Express, Nest.js, Ruby on Rails
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Ruby
-- 📫 Interesting : Web, Blockchain, mobile app
+- 📫 Interesting : Web, Blockchain, Mobile app
 - Cypress, Mocha, AWS, Rest API
 - Blockchain, Web3.js, Solidity, Truffle, Hardhat, Ether.js, IPFS
   
@@ -53,13 +53,13 @@
 <div align="center">
   <h2>
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-      How to reach me
+      How To Reach Me
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
   </h2>
   <br />
   <p>
-    Telegram: @L_Nova0211 <br />
-    Discord: hara8040 <br />
+    Telegram: @tatsuyawatanab <br />
+    Discord: crypto_legender <br />
   </p>
 </div>
   
