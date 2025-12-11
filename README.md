@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/hand.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Full+Stack+Engineer;Blockchain+Web3+Engineer" /><img src="./images/hand.gif" width="35"></p>
+<p align="center"><img src="./images/hand.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Full+Stack+Engineer" /><img src="./images/hand.gif" width="35"></p>
 <p align="center"><img src="./images/fullStack.webp" /></p><br>
 -Skills
 
